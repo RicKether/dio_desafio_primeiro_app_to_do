@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">To do List Desafio Dio</string>
+    <string name="label_new_task">Criar_Tarefa</string>
+    <string name="title">Titulo</string>
+    <string name="date">Data</string>
+    <string name="hour">Hora</string>
+    <string name="cancel">Cancelar</string>
+    <string name="label_tasks">Tarefa</string>
+    <string name="label_description_new_task">Nova_tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="action_delete">Deletar</string>
+    <string name="label_you_dont_have_tasks">Ops! Você não possui\nnenhuma tarefa.</string>
+
+</resources>
